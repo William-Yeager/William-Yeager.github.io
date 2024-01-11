@@ -20,6 +20,10 @@ html, body{
 	padding-right:15px;
 }
 
+#dev {
+	padding-left:300px;
+}
+
 #buttons {
 	  background-color: #4b3832;
 	  color: #fff4e6;
